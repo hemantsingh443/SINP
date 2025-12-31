@@ -184,7 +184,7 @@ cargo test --workspace
 
 ## RFC Specification
 
-See [SINP.tex](SINP.tex) for the full protocol specification.
+See [SINP.pdf](SINP.pdf) for the full protocol specification.
 
 ## License
 
